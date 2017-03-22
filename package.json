@@ -1,0 +1,11 @@
+{
+  "name": "cashlessconsumer-data",
+  "version": "1.0.0",
+  "description": "Data API of CashlessConsumer",
+  "main": "build.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Srikanth L",
+  "license": "ISC"
+}
